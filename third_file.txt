@@ -1,1 +1,5 @@
 This is my third text file.
+
+An edit after initial commit.
+
+Second edit to this file.
